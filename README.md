@@ -1,2 +1,2 @@
 # Codeforces
-Solutions to codeforces problems that I solve on a daily basis.
+Solutions to all codeforces problems I have solved.
